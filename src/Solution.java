@@ -3,12 +3,12 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 
 /*
-Самые-самые
-1. Создай список строк.
-2. Добавь в него 10 строчек с клавиатуры.
-3. Узнай, какая строка в списке встретится раньше: самая короткая или самая длинная.
-Если таких строк несколько, то должны быть учтены самые первые из них.
-4. Выведи на экран строку из п.3.
+Paši - paši...
+1. Izveido rindas.
+2. Ievieto tajā desmit rindiņas.
+3. Uzzini, kura rindiņa sarakstā atkārtojas: pati īsākā vai pati garākā.
+Ja tādas rindiņas ir vairākas, tad jāievēro pašas pirmās no tām.
+4. Izvadi uz ekrāna rindu no saraksta 3..
 
 
 Требования:
